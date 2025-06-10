@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../benefit_store"
+		},
+		{
+			"name": "demo",
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

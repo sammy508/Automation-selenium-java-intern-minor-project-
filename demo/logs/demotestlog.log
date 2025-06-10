@@ -1,0 +1,968 @@
+2025-06-08 07:59:57 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 07:59:59 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 08:09:15 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 08:09:16 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 08:09:16 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 08:24:52 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 08:24:54 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 08:24:54 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 08:24:54 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 08:28:10 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 08:28:11 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 08:28:12 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 08:28:12 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 08:28:13 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:34:09 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 10:34:10 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 10:35:45 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 10:35:45 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 10:35:46 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 10:35:46 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 10:35:46 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:35:46 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 10:35:46 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 10:36:14 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 10:36:14 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 10:36:15 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 10:36:15 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 10:36:15 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:36:15 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 10:36:15 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 10:42:06 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 10:42:07 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 10:42:08 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 10:59:20 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 10:59:20 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 10:59:21 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 10:59:22 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 10:59:22 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:00:26 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 11:00:27 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 11:00:27 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 11:00:27 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 11:00:27 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 11:00:28 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 11:00:28 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 11:00:28 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 11:00:28 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 11:00:28 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:18:46 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 11:18:47 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 11:18:47 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 11:18:47 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:18:48 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 11:18:49 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 11:33:25 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 11:33:26 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 11:33:26 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 11:33:26 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:33:27 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 11:33:28 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 11:33:28 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 11:53:41 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 11:53:41 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 11:53:41 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 11:53:42 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 11:53:42 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 11:53:42 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 11:53:42 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 11:53:42 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 11:53:43 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 11:53:43 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:53:43 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 11:53:43 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 11:53:43 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 11:57:41 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 11:57:42 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 11:57:42 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 11:57:42 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 11:57:42 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 11:57:42 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 11:57:43 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 11:57:43 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 11:57:43 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 11:57:43 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 11:57:43 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 11:57:44 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 11:57:44 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:07:01 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:07:02 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:07:02 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:07:02 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:07:03 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:07:04 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:07:04 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:09:10 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:09:10 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:09:11 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:09:12 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:09:12 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:09:12 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:09:12 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:09:12 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:11:59 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:12:00 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:12:00 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:12:01 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:12:01 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:12:01 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:12:01 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:12:01 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:12:02 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:12:02 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:12:02 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:12:02 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:12:02 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:16:59 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:17:00 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:17:00 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:17:01 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:17:01 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:17:01 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:17:01 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:17:02 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:17:02 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:17:02 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:17:02 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:17:02 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:17:03 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:31:21 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:31:22 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:31:23 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:31:23 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:31:23 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:31:23 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:31:24 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:31:24 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:31:24 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:31:24 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:31:24 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:31:25 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:31:25 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:37:08 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:37:09 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:37:09 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:37:10 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:37:10 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:37:10 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:37:10 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:37:10 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:37:11 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:37:11 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:37:11 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:37:11 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:37:11 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:38:35 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:38:36 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:38:36 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:38:37 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:38:37 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:38:37 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:38:38 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:38:38 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:38:38 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:38:38 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:38:38 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:38:39 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:38:39 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:45:49 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:47:24 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:47:26 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:47:26 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:47:26 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:47:27 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:47:27 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:47:27 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:47:27 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:47:28 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:47:28 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:47:28 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:47:28 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:47:29 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:51:10 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:51:11 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:51:11 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:51:11 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:51:12 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:51:12 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:51:12 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:51:12 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:51:12 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:51:13 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:51:13 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:51:13 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:51:13 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 12:55:45 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 12:55:46 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 12:55:46 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 12:55:46 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 12:55:47 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 12:55:47 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 12:55:47 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 12:55:47 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 12:55:48 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 12:55:48 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 12:55:48 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 12:55:48 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 12:55:48 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 15:30:35 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 15:30:37 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 15:30:37 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 15:31:23 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 15:31:25 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 15:31:25 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 15:31:25 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 15:31:25 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 15:31:26 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 15:31:26 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 15:31:26 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 15:31:26 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 15:31:27 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 15:31:27 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 15:31:27 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 15:31:27 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 15:31:28 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:02:41 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:02:42 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:02:42 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:02:43 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:02:43 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:02:43 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:02:43 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:02:43 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:02:44 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:02:44 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:02:44 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:02:44 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:02:44 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:02:45 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:10:36 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:10:37 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:10:37 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:11:01 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:11:02 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:11:03 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:11:38 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:11:39 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:11:39 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:11:39 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:11:40 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:11:40 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:11:40 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:11:40 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:11:41 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:11:41 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:11:41 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:11:41 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:11:41 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:11:42 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:11:42 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 16:13:07 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:13:08 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:13:08 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:13:09 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:13:09 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:13:10 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:13:10 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:13:10 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:13:10 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:13:11 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:13:11 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:13:11 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:13:11 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:13:12 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:13:34 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:13:35 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:13:36 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:13:36 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:13:36 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:13:37 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:13:37 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:13:37 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:13:37 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:13:38 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:13:38 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:13:38 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:13:38 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:13:39 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:14:02 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:14:04 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:14:04 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:14:28 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:14:30 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:14:30 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:14:30 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:14:31 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:14:31 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:14:31 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:14:31 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:14:32 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:14:32 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:14:32 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:14:32 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:14:32 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:14:33 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:18:20 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 16:18:21 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 16:18:21 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 16:18:22 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 16:18:22 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 16:18:22 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 16:18:22 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 16:18:23 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 16:18:23 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 16:18:23 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 16:18:23 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 16:18:24 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 16:18:24 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 16:18:24 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 16:18:24 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:08:46 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:08:48 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:08:48 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:08:48 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:08:49 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:08:49 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:08:49 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:08:49 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:08:50 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:08:50 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:08:50 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:08:50 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:08:50 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:08:51 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:08:51 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:25:20 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:25:22 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:25:22 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:25:23 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:25:23 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:25:23 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:25:23 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:25:23 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:25:24 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:25:24 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:25:24 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:25:24 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:25:24 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:25:25 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:25:25 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:28:40 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:28:41 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:28:41 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:28:41 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:28:42 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:28:42 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:28:42 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:28:42 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:28:43 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:28:43 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:28:43 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:28:43 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:28:44 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:28:44 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:28:44 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:29:23 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:29:24 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:29:24 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:29:49 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:29:51 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:29:52 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:29:52 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:29:52 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:29:52 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:29:53 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:29:53 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:29:53 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:29:54 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:29:54 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:29:54 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:29:54 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:29:54 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:29:55 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:30:40 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:30:41 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:30:42 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:30:42 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:30:42 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:30:43 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:30:43 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:30:43 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:30:43 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:30:43 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:30:44 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:30:44 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:30:44 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:30:44 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:30:44 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:37:58 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:38:00 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:38:00 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:40:34 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:40:35 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:40:36 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:40:36 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:40:37 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:40:37 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:40:37 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:40:37 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:40:38 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:40:39 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:41:17 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:41:19 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:41:19 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:41:19 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:41:20 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:41:20 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:41:20 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:41:20 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:41:20 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:41:21 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:41:21 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:41:21 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:41:21 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:41:21 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:41:21 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:54:31 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:54:33 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:54:33 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:54:33 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:54:33 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:54:34 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:54:34 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:54:34 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:54:34 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:54:35 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:54:35 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:54:35 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:54:35 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:54:35 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:54:35 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 17:55:06 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 17:55:07 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 17:55:08 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 17:55:08 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 17:55:08 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 17:55:08 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 17:55:09 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 17:55:10 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 17:55:10 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 17:55:10 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:08:44 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:08:46 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:08:46 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:08:47 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:08:47 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:08:47 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:08:48 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:08:49 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:08:49 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:08:49 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:09:17 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:09:18 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:09:19 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:09:19 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:09:19 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:09:20 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:09:20 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:09:20 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:09:20 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:09:21 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:09:21 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:09:21 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:09:21 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:09:21 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:09:21 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:16:23 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:16:25 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:16:25 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:17:09 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:17:10 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:17:11 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:17:36 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:17:38 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:17:38 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:17:39 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:17:39 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:17:39 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:17:39 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:17:40 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:17:40 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:17:40 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:17:40 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:17:40 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:17:41 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:17:41 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:17:41 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:23:20 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:23:21 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:23:22 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:23:22 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:23:22 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:23:23 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:23:23 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:23:23 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:23:23 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:23:24 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:23:24 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:23:24 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:23:24 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:23:24 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:23:24 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:27:55 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:27:57 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:27:58 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:28:22 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:28:24 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:28:24 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:28:25 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:28:25 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:28:25 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:28:26 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:28:26 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:28:26 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:28:27 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:28:27 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:28:27 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:28:27 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:28:27 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:28:28 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:39:09 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:39:10 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:39:10 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:39:11 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:39:11 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:39:11 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:39:11 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:39:11 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:39:12 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@6d7cada5
+2025-06-08 18:39:12 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 18:45:16 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:45:49 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 18:45:50 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 18:45:50 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 18:45:50 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 18:45:50 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 18:45:50 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 18:45:51 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 18:45:52 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 18:45:52 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 18:45:52 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 18:45:52 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 18:45:52 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:33:18 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 19:33:19 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 19:33:20 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 19:33:20 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 19:33:21 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 19:33:21 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 19:33:21 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:33:21 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 19:35:26 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 19:35:27 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 19:35:27 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 19:35:28 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 19:35:28 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 19:35:28 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 19:35:28 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 19:35:28 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 19:35:29 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 19:35:29 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 19:35:30 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 19:35:30 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 19:35:30 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:35:30 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 19:38:20 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 19:38:21 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 19:38:21 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 19:38:22 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 19:38:22 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 19:38:22 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 19:38:22 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 19:38:22 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 19:38:23 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 19:38:23 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 19:38:24 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:38:24 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 19:39:40 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 19:39:40 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 19:39:40 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 19:39:41 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 19:39:42 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 19:39:42 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 19:39:43 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:39:43 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 19:43:06 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 19:43:07 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 19:43:07 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 19:43:08 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 19:43:09 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 19:43:09 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 19:43:10 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 19:43:10 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 21:32:24 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 21:32:26 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 21:32:26 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 21:32:26 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 21:32:27 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 21:32:27 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 21:32:27 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 21:32:27 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 21:32:28 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 21:32:29 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 21:32:29 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 21:32:29 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 21:32:29 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 21:32:29 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 21:45:09 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 21:45:11 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 21:45:11 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 21:45:11 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 21:45:11 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 21:45:12 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 21:45:12 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 21:45:12 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 21:45:12 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 21:45:13 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 21:45:13 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 21:45:13 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 21:45:13 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 21:45:13 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 21:45:13 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 21:45:14 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@6d7cada5
+2025-06-08 21:45:14 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 21:45:14 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 21:45:14 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 21:45:14 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 21:53:05 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 21:53:06 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 21:53:07 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 21:53:07 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 21:53:07 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 21:53:07 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 21:53:08 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 21:53:09 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 21:53:09 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 21:53:09 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 21:53:09 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 21:53:09 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 21:53:09 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 21:53:10 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 21:53:10 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 21:53:32 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 21:53:34 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 21:53:34 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 21:53:34 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 21:53:35 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 21:53:35 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 21:53:35 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 21:53:35 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 21:53:36 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 21:53:37 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 21:53:37 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 21:53:37 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 21:53:37 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 21:53:37 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 21:53:37 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:07:49 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 22:07:50 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 22:07:51 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 22:07:51 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 22:07:51 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 22:07:51 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 22:07:52 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 22:07:53 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 22:07:53 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 22:07:53 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 22:07:53 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 22:07:53 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 22:07:53 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 22:07:54 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 22:07:54 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:07:54 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-08 22:11:23 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 22:11:24 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 22:11:25 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 22:11:25 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 22:11:25 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 22:11:25 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 22:11:26 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 22:11:27 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 22:11:27 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 22:11:27 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 22:11:27 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 22:11:27 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 22:11:28 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 22:11:28 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 22:11:28 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:11:28 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-08 22:17:19 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 22:17:20 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 22:17:20 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 22:17:21 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 22:17:21 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 22:17:21 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 22:17:21 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 22:17:22 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 22:17:23 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 22:17:23 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 22:17:23 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 22:17:23 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 22:17:23 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 22:17:23 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 22:17:24 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:17:24 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-08 22:21:52 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 22:21:54 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 22:21:54 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 22:21:54 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 22:21:55 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 22:21:55 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 22:21:55 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 22:21:55 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 22:21:56 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 22:21:56 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 22:21:57 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 22:21:57 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 22:21:57 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 22:21:57 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 22:21:57 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:21:58 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-08 22:49:01 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-08 22:49:02 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-08 22:49:03 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-08 22:49:03 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-08 22:49:03 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-08 22:49:03 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-08 22:49:04 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-08 22:49:04 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-08 22:49:04 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-08 22:49:04 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-08 22:49:05 [main] ERROR demqasite.pages.landingpage - error
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-08 22:49:05 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-08 22:49:06 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-08 22:49:06 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-08 22:49:06 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-08 22:49:07 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-08 22:49:07 [main] INFO  demqasite.pages.landingpage - Clicked on dropable tab
+2025-06-08 22:49:07 [main] INFO  demqasite.pages.landingpage - Dropped box on zone
+2025-06-09 09:53:39 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-09 09:53:40 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-09 09:53:40 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-09 09:53:41 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-09 09:53:41 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-09 09:53:41 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-09 09:53:41 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-09 09:53:42 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-09 09:53:42 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-09 09:53:42 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-09 09:53:42 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-09 09:53:42 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-09 09:53:43 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-09 09:53:43 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-09 09:53:43 [main] ERROR demqasite.pages.landingpage - error
+2025-06-09 09:53:43 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-09 09:53:43 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-09 09:53:43 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-09 09:53:44 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-09 09:53:44 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-09 09:53:44 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-09 09:53:45 [main] INFO  demqasite.pages.landingpage - Clicked on dropable tab
+2025-06-09 09:53:45 [main] INFO  demqasite.pages.landingpage - Dropped box on zone
+2025-06-09 13:28:51 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-09 13:28:52 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-09 13:28:52 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-09 13:28:52 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-09 13:28:52 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-09 13:28:52 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-09 13:28:53 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-09 13:28:54 [main] ERROR demqasite.pages.landingpage - error
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@6d7cada5
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-09 13:28:54 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-09 13:28:55 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-09 13:28:55 [main] INFO  demqasite.pages.landingpage - Clicked on dropable tab
+2025-06-09 13:28:55 [main] INFO  demqasite.pages.landingpage - Dropped box on zone
+2025-06-10 10:43:13 [main] INFO  demqasite.pages.landingpage - Url initialize
+2025-06-10 10:43:14 [main] INFO  demqasite.pages.landingpage - Checkbox selected
+2025-06-10 10:43:15 [main] INFO  demqasite.pages.landingpage - uncheck checkbox
+2025-06-10 10:43:15 [main] INFO  demqasite.pages.landingpage - Radio button clicked
+2025-06-10 10:43:15 [main] INFO  demqasite.pages.landingpage - Insted yes impressive is selected
+2025-06-10 10:43:15 [main] INFO  demqasite.pages.landingpage - Redirected to webpage
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - clicked to row dropdown
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Item deleted from web table
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Clicked search bar
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Click on search button
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Click on  button tab
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Performed right click button
+2025-06-10 10:43:16 [main] INFO  demqasite.pages.landingpage - Doubloe click performed
+2025-06-10 10:43:17 [main] INFO  demqasite.pages.landingpage - upload& Download tab clicked
+2025-06-10 10:43:17 [main] ERROR demqasite.pages.landingpage - error
+2025-06-10 10:43:17 [main] INFO  demqasite.pages.landingpage - demqasite.pageLocators.interactionspagelocators@350a94ce
+2025-06-10 10:43:17 [main] INFO  demqasite.pages.landingpage - Interaction tab clicked
+2025-06-10 10:43:17 [main] INFO  demqasite.pages.landingpage - Clicked on selecttable
+2025-06-10 10:43:17 [main] INFO  demqasite.pages.landingpage - List item were selected
+2025-06-10 10:43:18 [main] INFO  demqasite.pages.landingpage - Click the resizetab
+2025-06-10 10:43:18 [main] INFO  demqasite.pages.landingpage - resize bot to 100, 100 offset
+2025-06-10 10:43:18 [main] INFO  demqasite.pages.landingpage - Clicked on dropable tab
+2025-06-10 10:43:18 [main] INFO  demqasite.pages.landingpage - Dropped box on zone

@@ -1,0 +1,79 @@
+2025-06-10 17:27:25,720 [main] INFO : Driver Initialized
+2025-06-10 17:27:34,901 [main] INFO : Got  URL
+2025-06-10 17:27:36,474 [main] INFO : ZIPcodeinteraction
+2025-06-10 17:27:36,715 [main] INFO : Gender selection completed
+2025-06-10 17:27:36,894 [main] INFO : From Tier set  completed
+2025-06-10 17:27:37,046 [main] INFO : DoB set sucessfully
+2025-06-10 17:27:40,181 [main] ERROR: https://qa-enroll-newui.purenroll.com/
+2025-06-10 17:27:40,181 [main] INFO : Button clicked sucessfully
+2025-06-10 17:27:40,196 [main] INFO : From interaction completed
+2025-06-10 17:27:58,290 [main] INFO : More info clicked
+2025-06-10 17:28:12,597 [main] INFO : Clicked addto cart button
+2025-06-10 17:28:37,702 [main] INFO : Clicked proceed to checkout button
+2025-06-10 17:28:37,707 [main] INFO : Personal page begins
+2025-06-10 17:28:39,242 [main] INFO : entered first name
+2025-06-10 17:28:39,488 [main] INFO : enterd last name
+2025-06-10 17:28:40,375 [main] INFO : Selected Divorced
+2025-06-10 17:28:40,593 [main] INFO : entered sssn: 123456888
+2025-06-10 17:28:51,050 [main] INFO : after entering data next button is clicked
+2025-06-10 17:28:51,050 [main] INFO : Personal page called
+2025-06-10 17:28:54,248 [main] INFO : Email entered
+2025-06-10 17:28:54,502 [main] INFO : Contact number entered
+2025-06-10 17:28:54,733 [main] INFO : Ecnter 371 7th as street
+2025-06-10 17:28:54,951 [main] INFO : Entered America as country
+2025-06-10 17:29:05,269 [main] INFO : Clicked next button
+2025-06-10 17:29:05,271 [main] INFO : Contact information page called
+2025-06-10 17:29:20,670 [main] INFO : Entered first name
+2025-06-10 17:29:21,047 [main] INFO : entered lastname
+2025-06-10 17:29:21,421 [main] INFO : Entered DOB
+2025-06-10 17:29:21,710 [main] INFO : Gender selected
+2025-06-10 17:29:21,975 [main] INFO : Entered SSN
+2025-06-10 17:29:32,416 [main] INFO :  submit button Clicked
+2025-06-10 17:29:32,416 [main] INFO : Dependent info called
+2025-06-10 17:29:52,795 [main] INFO : Entered child first name
+2025-06-10 17:29:53,191 [main] INFO : entered child lastname
+2025-06-10 17:29:53,561 [main] INFO : Entered DOB
+2025-06-10 17:29:53,829 [main] INFO : Gender selected
+2025-06-10 17:29:54,082 [main] INFO :  Entered Child's SSN
+2025-06-10 17:30:04,527 [main] INFO :  submit button Clicked
+2025-06-10 17:30:04,527 [main] INFO : calling child info 
+2025-06-10 17:36:38,404 [main] INFO : Driver Initialized
+2025-06-10 17:36:47,994 [main] INFO : Got  URL
+2025-06-10 17:36:49,691 [main] INFO : ZIPcodeinteraction
+2025-06-10 17:36:50,008 [main] INFO : Gender selection completed
+2025-06-10 17:36:50,223 [main] INFO : From Tier set  completed
+2025-06-10 17:36:50,435 [main] INFO : DoB set sucessfully
+2025-06-10 17:36:52,105 [main] ERROR: https://qa-enroll-newui.purenroll.com/
+2025-06-10 17:36:52,108 [main] INFO : Button clicked sucessfully
+2025-06-10 17:36:52,124 [main] INFO : From interaction completed
+2025-06-10 17:37:06,095 [main] INFO : More info clicked
+2025-06-10 17:37:21,720 [main] INFO : Clicked addto cart button
+2025-06-10 17:37:47,193 [main] INFO : Clicked proceed to checkout button
+2025-06-10 17:37:47,197 [main] INFO : Personal page begins
+2025-06-10 17:37:49,611 [main] INFO : entered first name
+2025-06-10 17:37:49,826 [main] INFO : enterd last name
+2025-06-10 17:37:50,379 [main] INFO : Selected Divorced
+2025-06-10 17:37:50,623 [main] INFO : entered sssn: 123456888
+2025-06-10 17:38:01,039 [main] INFO : after entering data next button is clicked
+2025-06-10 17:38:01,039 [main] INFO : Personal page called
+2025-06-10 17:38:04,879 [main] INFO : Email entered
+2025-06-10 17:38:05,183 [main] INFO : Contact number entered
+2025-06-10 17:38:05,400 [main] INFO : Ecnter 371 7th as street
+2025-06-10 17:38:05,673 [main] INFO : Entered America as country
+2025-06-10 17:38:16,003 [main] INFO : Clicked next button
+2025-06-10 17:38:16,004 [main] INFO : Contact information page called
+2025-06-10 17:38:31,421 [main] INFO : Entered first name
+2025-06-10 17:38:31,801 [main] INFO : entered lastname
+2025-06-10 17:38:32,165 [main] INFO : Entered DOB
+2025-06-10 17:38:32,450 [main] INFO : Gender selected
+2025-06-10 17:38:32,715 [main] INFO : Entered SSN
+2025-06-10 17:38:43,117 [main] INFO :  submit button Clicked
+2025-06-10 17:38:43,117 [main] INFO : Dependent info called
+2025-06-10 17:39:03,494 [main] INFO : Entered child first name
+2025-06-10 17:39:03,891 [main] INFO : entered child lastname
+2025-06-10 17:39:04,259 [main] INFO : Entered DOB
+2025-06-10 17:39:04,529 [main] INFO : Gender selected
+2025-06-10 17:39:04,767 [main] INFO :  Entered Child's SSN
+2025-06-10 17:39:15,186 [main] INFO :  submit button Clicked
+2025-06-10 17:39:36,169 [main] INFO : Clicked Next button
+2025-06-10 17:39:36,171 [main] INFO : calling child info 
